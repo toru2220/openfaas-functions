@@ -1,0 +1,2 @@
+# openfaas-functions
+OpenFaaS functions
